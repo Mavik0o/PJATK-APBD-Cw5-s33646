@@ -1,0 +1,10 @@
+bin/
+obj/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.iml
+.ReSharper*/
+_ReSharper*/
+.nuget/
